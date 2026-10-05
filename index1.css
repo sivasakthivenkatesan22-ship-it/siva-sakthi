@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
